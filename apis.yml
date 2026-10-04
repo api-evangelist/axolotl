@@ -39,7 +39,6 @@ apis:
   - name: Axolotl
     description: "Collection of axolotl pictures and facts"
     humanURL: https://theaxolotlapi.netlify.app/
-    baseURL: https://theaxolotlapi.netlify.app/
     tags:
       - Animals
     properties:
